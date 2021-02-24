@@ -1,7 +1,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
           <img src="../pic/grapelogo.jpg" alt="OFS Store logo" style="width:5%; padding: 3px 5px 3px 3px;">
-        <a class="navbar-brand" href="../homepage.php">Organic Food Store</a>
+        <a class="navbar-brand" href="../index.php">Organic Food Store</a>
 
         <!-- Search -->
 
@@ -17,7 +17,7 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="../homepage.php">Home
+              <a class="nav-link" href="../index.php">Home
                 <span class="sr-only">(current)</span>
               </a>
             </li>
