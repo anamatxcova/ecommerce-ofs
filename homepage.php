@@ -2,7 +2,7 @@
 
 //index.php
 
-$connect = new PDO("mysql:host=localhost;dbname=web", "root", "lamnguyen");
+$connect = new PDO("mysql:host=localhost;dbname=web", "root", "annguyen");
 
 $message = '';
 
