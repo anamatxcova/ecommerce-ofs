@@ -78,7 +78,7 @@
           //echo "Successful Login";
           echo "  <script>
                       alert('Login successful!');
-                      window.location.href='homepage.php';
+                      window.location.href='index.php';
                   </script>";
         } else {
            echo "Invalid e-mail or Password";
